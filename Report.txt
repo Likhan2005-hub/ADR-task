@@ -1,0 +1,18 @@
+Title: ADR Identification Basics Report
+
+1. Patient Profile:
+* Patient Name: Rahul Sharma (Fictional)
+* Age / Gender: 45 years / Male
+* Medical History: Hypertension (High Blood Pressure)
+
+2. Presenting Symptoms & Timeline:
+* The patient started taking a new blood pressure medication (Enalapril) 3 days ago.
+* Within 24 hours of the first dose, the patient developed a persistent dry cough, throat irritation, and mild facial swelling.
+
+3. Suspected Drug:
+* Enalapril (ACE Inhibitor class)
+
+4. Adverse Drug Reaction (ADR) Analysis & Conclusion:
+* Reaction Type: ACE inhibitor-induced dry cough and angioedema symptoms.
+* Causality Assessment: The symptoms appeared immediately after starting Enalapril and worsened with continued doses, which strongly links the drug to the reaction.
+* Recommended Action: Stop the medication immediately under medical supervision and consult a doctor for an alternative blood pressure medication (like an ARB such as Losartan).
